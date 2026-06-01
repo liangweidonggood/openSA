@@ -1,0 +1,21 @@
+# mdBook 构建产物
+/book/book/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock.bak
+
+# 临时文件
+*.tmp
+*.bak
