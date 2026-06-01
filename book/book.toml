@@ -1,0 +1,17 @@
+[book]
+title = "openSA · 开源系统架构师"
+authors = ["openSA Contributors"]
+language = "zh"
+src = "src"
+description = "面向初中级到架构师的中文架构师知识库与真实案例库"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/<owner>/openSA"
+edit-url-template = "https://github.com/<owner>/openSA/edit/main/book/{path}"
+site-url = "/openSA/"
