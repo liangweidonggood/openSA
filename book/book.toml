@@ -12,6 +12,6 @@ create-missing = true
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/<owner>/openSA"
-edit-url-template = "https://github.com/<owner>/openSA/edit/main/book/{path}"
+git-repository-url = "https://github.com/liangweidonggood/openSA"
+edit-url-template = "https://github.com/liangweidonggood/openSA/edit/main/book/{path}"
 site-url = "/openSA/"

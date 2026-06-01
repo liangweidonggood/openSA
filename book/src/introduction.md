@@ -18,6 +18,6 @@
 
 ## 如何贡献
 
-参见 [贡献指南](https://github.com/<owner>/openSA/blob/main/CONTRIBUTING.md)。
+参见 [贡献指南](https://github.com/liangweidonggood/openSA/blob/main/CONTRIBUTING.md)。
 
 > 本简介将随项目成长持续迭代。

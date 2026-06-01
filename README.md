@@ -11,7 +11,7 @@
 
 ## 🌐 在线阅读
 
-https://<owner>.github.io/openSA/
+https://liangweidonggood.github.io/openSA/
 
 ## 🚀 本地构建
 
@@ -19,7 +19,7 @@ https://<owner>.github.io/openSA/
 
 ```bash
 cargo install mdbook
-git clone https://github.com/<owner>/openSA.git
+git clone https://github.com/liangweidonggood/openSA.git
 cd openSA/book
 mdbook serve --open
 ```

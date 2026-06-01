@@ -1,6 +1,6 @@
 # 贡献指南
 
-完整贡献流程参见仓库根目录的 [CONTRIBUTING.md](https://github.com/<owner>/openSA/blob/main/CONTRIBUTING.md)。
+完整贡献流程参见仓库根目录的 [CONTRIBUTING.md](https://github.com/liangweidonggood/openSA/blob/main/CONTRIBUTING.md)。
 
 ## 站点内导航
 
